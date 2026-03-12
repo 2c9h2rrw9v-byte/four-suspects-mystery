@@ -1,42 +1,136 @@
-# Opening Scene: The Jewelry Theft and Murder Case in Kurume City
+# オープニング＆事件発生
 
-**[Narration by Player 1]**  
-In the quiet streets of Kurume City, just past the bustling Kurume Station, a sinister event is about to unfold. The clock strikes midnight, and the once lively atmosphere is now cloaked in a heavy silence, accentuated by the flickering streetlights.
+## ★読み合わせのしかた
+以下のセリフを、プレイヤー1～4が順番に声に出して読んでください。ドラマティックに！
 
-**[Dialogue - Player 2]**  
-*"Did you hear about the jewelry store downtown? They say it's the best in town!"*
+---
 
-**[Narration by Player 3]**  
-At Tansu no Gen, the premium jewelry store known for its breathtaking diamonds, four employees share uneasy glances. Lurking outside the window is a shadowy figure, their intentions masked by darkness.
+## 舞台：久留米市 タンスのゲン
 
-**[Dialogue - Player 4]**  
-*"Stop it! It’s only a rumor. I doubt anything could happen here!"*
+*久留米市の目抜き通り。駅から徒歩5分。高級ジュエリー店「タンスのゲン」。*
 
-**[Narration by Player 1]**  
-As Player 4 chuckles dismissively, the door creaks open. A sudden chill fills the air, as if the very presence of danger has stepped over the threshold.  
+*時刻：午後3時*
 
-**[Dialogue - Player 2]**  
-*"Who's there?"*  
+---
 
-**[Narration by Player 3]**  
-The employees turn to see a hooded figure, their face obscured. "I need your help," they whisper, their voice barely audible above the mounting tension. The figure reveals a glimmering object, but it’s not just jewelry; it's a stolen necklace, one that’s been missing for years.  
+**【プレイヤー1が読む】**
 
-**[Dialogue - Player 4]**  
-*"You... where did you get that?"*
+「久留米市の商店街。昼間だというのに、妙に人通りが少ない。石畳の道を歩く足音だけが響く。」
 
-**[Narration by Player 1]**  
-Panic rises as they discover that this is not just a simple theft. A murder has been committed, and the implications shadow every corner of their world — a web of deceit and betrayal woven seamlessly into the fabric of their lives.
+**【プレイヤー2が読む】**
 
-**[Dialogue - Player 3]**  
-*"We need to call the police!"*
+「タンスのゲンの看板が見える。3階建てのビル。1階が売場、2階が事務所、3階が金庫と保管室だ。」
 
-**[Narration by Player 2]**  
-But as they fumble for their phones, the lights flicker out, plunging them into darkness. The ominous silence is broken only by the sound of a door slamming shut.
-  
-**[Dialogue - Player 4]**  
-*"What was that?! Who’s there?!"*
+**【プレイヤー3が読む】**
 
-**[Narration by Player 1]**  
-With hearts pounding, the four employees realize that they are no longer just witnesses — they are now part of a chilling mystery that will unfold on the streets of Kurume City, where trust will be tested and the truth will be as elusive as the thief in the night.  
+「その日の午後、私たちは全員、この店にいた。」
 
-**[End Scene]**  
+**【プレイヤー4が読む】**
+
+「昨夜、隣町の高級ギャラリーから、超高級ダイヤモンドネックレスが盗まれた。値段は1000万円以上。」
+
+---
+
+**【プレイヤー1が読む】**
+
+「午後2時30分。私たちが事務所で書類整理をしていた時のこと。」
+
+**【プレイヤー2が読む】**
+
+「突然、警察のサイレンが鳴り響いた。パトカーが何台も商店街を通り抜けていく。」
+
+**【プレイヤー3が読む】**
+
+「30分後。警察から連絡が入った。『昨夜のギャラリー盗難の容疑で、1人の男を逮捕した』と。」
+
+**【プレイヤー4が読む】**
+
+「逮捕された男の名前は、私たちの同僚。タンスのゲンで働く男だった。」
+
+---
+
+**【プレイヤー1が読む】**
+
+「驚愕。混乱。疑問。様々な感情が交錯する。」
+
+**【プレイヤー2が読む】**
+
+「しかし、それはまだ序章に過ぎなかった。」
+
+**【プレイヤー3が読む】**
+
+「午後4時15分。警察からまた連絡が入った。」
+
+**【プレイヤー4が読む】**
+
+「『ギャラリーの館長が、昨夜殺害されていたことが判明した。死因は頭部外傷。』」
+
+---
+
+**【プレイヤー1が読む】**
+
+「盗難事件は、殺人事件へと変わった。」
+
+**【プレイヤー2が読む】**
+
+「そして、その殺人の現場には、確かな証拠が残されていた。」
+
+**【プレイヤー3が読む】**
+
+「昨夜、タンスのゲンの金庫から、特別な『ダイヤモンド入り懐中時計』が消えていたこと。」
+
+**【プレイヤー4が読む】**
+
+「その懐中時計は、ギャラリーの館長が唯一身につけていた、特別な品。」
+
+---
+
+**【プレイヤー1が読む】**
+
+「容疑者は主張した。『自分は無実だ。懐中時計のことは何も知らない。』」
+
+**【プレイヤー2が読む】**
+
+「しかし、証拠は明らかだった。容疑者の指紋が、盗まれたネックレスについていた。」
+
+**【プレイヤー3が読む】**
+
+「そして、昨夜10時から11時の間に、容疑者がギャラリーの近くで目撃されていた。」
+
+**【プレイヤー4が読む】**
+
+「容疑者は逮捕され、留置場に送られた。」
+
+---
+
+**【プレイヤー1が読む】**
+
+「翌日。容疑者は裁判にかけられることが決まった。」
+
+**【プレイヤー2が読む】**
+
+「しかし、その朝。また異変が起きた。」
+
+**【プレイヤー3が読む】**
+
+「久留米市中央銀行から、また盗難事件が発生したのだ。」
+
+**【プレイヤー4が読む】**
+
+「盗まれたのは、現金1000万円。」
+
+---
+
+**【全員で読む】**
+
+「本当の犯人は、本当に逮捕された男なのか？
+
+「それとも、まったく別の誰かなのか？
+
+「真実は、ここにいる4人の中に隠されている...」
+
+---
+
+## ここから先は...
+
+次のフェーズ「配役決め」へ進んでください。
